@@ -1,0 +1,11 @@
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.exe
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.deps.json
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.json
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.dev.json
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.dll
+D:\usuarios\alumno\escritorio\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.pdb
+D:\usuarios\alumno\escritorio\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.dll
+D:\usuarios\alumno\escritorio\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.pdb
